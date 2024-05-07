@@ -1,0 +1,18 @@
+{
+  "name": "superbot",
+  "version": "1.0.0",
+  "description": "TBD; probably something League of Legends related soon",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SanAdams",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {
+    "prettier-plugin-java": "^2.6.0"
+  }
+}
