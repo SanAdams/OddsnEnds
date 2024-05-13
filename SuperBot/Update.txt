@@ -1,0 +1,1 @@
+This was supposed to be a discord bot written in node.js. I've decided to pivot and try to make the bot in python instead
