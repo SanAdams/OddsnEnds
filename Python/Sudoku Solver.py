@@ -26,7 +26,7 @@ def conflict(puzzle, guess, row, col):
     # the row where the 3x3 square starts
     squareStartRow = (row // 3) * 3
 
-    # Same logic for the columns (you get the horizontal set) if you have both the vertical and horizontal set, there is 
+    # Same logic for the columns (you get the horizontal set) if you have both the vertical and horizontal sets, there is 
     # only one 3x3 square that can be in both sets
     # the column where the 3x3 square starts
     squareStartCol = (col // 3) * 3
